@@ -1,0 +1,15 @@
+{"message_type":"status","percent_done":0,"total_files":1,"total_bytes":2}
+{"message_type":"status","percent_done":0.9315216859074698,"total_files":356,"files_done":170,"total_bytes":838923574,"bytes_done":781475502}
+{"message_type":"status","percent_done":0.7854588889513986,"total_files":2004,"files_done":283,"total_bytes":1057951937,"bytes_done":830977753}
+{"message_type":"status","percent_done":0.2699258220231028,"total_files":4687,"files_done":422,"total_bytes":3160206436,"bytes_done":853021320}
+{"message_type":"status","percent_done":0.08401307870534364,"total_files":6937,"files_done":842,"total_bytes":10189155310,"bytes_done":856022307}
+{"message_type":"status","percent_done":0.09871345076199452,"total_files":6937,"files_done":1617,"total_bytes":10189155310,"bytes_done":1005806681}
+{"message_type":"status","percent_done":0.1038082437473416,"total_files":6937,"files_done":1896,"total_bytes":10189155310,"bytes_done":1057718318}
+{"message_type":"status","percent_done":0.11468365958198354,"total_files":6937,"files_done":2772,"total_bytes":10189155310,"bytes_done":1168529619}
+{"message_type":"status","percent_done":0.11583086566966855,"total_files":6937,"files_done":4310,"total_bytes":10189155310,"bytes_done":1180218680}
+{"message_type":"status","percent_done":0.1161446715645362,"total_files":6937,"files_done":4456,"total_bytes":10189155310,"bytes_done":1183416097}
+{"message_type":"status","percent_done":0.5984013525651127,"total_files":6937,"files_done":5216,"total_bytes":10189155310,"bytes_done":6097204319}
+{"message_type":"status","percent_done":0.5989501427081496,"total_files":6937,"files_done":5603,"total_bytes":10189155310,"bytes_done":6102796027}
+{"message_type":"status","percent_done":0.999999659539982,"total_files":6937,"files_done":6933,"total_bytes":10189155310,"bytes_done":10189151841}
+{"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":6937,"files_done":6937,"total_bytes":10189155310,"bytes_done":10189155310}
+{"message_type":"summary","files_new":0,"files_changed":11,"files_unmodified":6926,"dirs_new":0,"dirs_changed":15,"dirs_unmodified":614,"data_blobs":8,"tree_blobs":15,"data_added":683689,"total_files_processed":6937,"total_bytes_processed":10189155310,"total_duration":1.125009677,"snapshot_id":"216ebdee"}
